@@ -130,7 +130,7 @@ Continual improvements might include:
 - [ ] Generating a summary of the paper recommendations instead of just the abstracts.
 - [ ] Making the app context-aware by asking the user to provide more information about their interests.
 - [ ] Building a Docker image for the app and deploy it on Docker Hub.
-- [ ] Finishing writing the project report.
+- [x] Finishing writing the project report.
 
 ## Acknowledgments
 
